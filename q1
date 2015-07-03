@@ -1,1 +1,6 @@
-Explain what git clone does, in your own words
+Git clone allows you to make a local copy of a remote repository. 
+It copies all of the files and folders as well as all of the history of the files so that you can have a complete record of what has been changed.
+It will put it all into a working directory with the name the same as the repository name.
+
+Making a clone of a repsitory allows you to modify it in whatever way you like without affecting the original copy; changes that you make can then be suggested to the owner of the original repository.
+ 
