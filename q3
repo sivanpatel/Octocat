@@ -1,1 +1,7 @@
 Explain what a branch is, in your own words.
+
+A branch is an offshoot of the repository that you are working on. It allows you to, at any point, create an alternate path so that you can commit changes and chek whether they are working or not without affecting the original codes. If the changes made are successful then the branches can be merged so that the changes are absorbed into the master branch.
+
+If mistakes are made on the new branch that is being worked on, it is simple to return to the state at which the branch was made and then work from there. 
+
+The default working branch is the 'master' branch, other branches can be named s you wish. 
