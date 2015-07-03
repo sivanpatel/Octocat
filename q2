@@ -1,1 +1,5 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+The upstream remote is the original source repository.
+
+It is a similar concept to the origin remote. The origin remote is the repo that you use to push and pull to, whereas the upstream remote is the original repo which would have been cloned by you so that you can work on it. You can push and pull as much as you would like with the origin repo, however to contribute ot the upstream repo, you have to intiate a pull request. 
+
+When the upstream remote is altered, it changes what everyone else will clone from it, whereas when the origin remote is altered, it only affects what you receive. 
